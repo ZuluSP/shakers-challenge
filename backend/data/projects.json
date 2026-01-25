@@ -1,0 +1,2827 @@
+[
+  {
+    "id": 1,
+    "title": "Future-proofed scalable time-frame",
+    "organization": {
+      "id": 1,
+      "name": "Rojas-Collins",
+      "logo": "https://logo.clearbit.com/slack.com",
+      "industry": 15
+    },
+    "projectLeader": {
+      "id": 101,
+      "name": "Aaron",
+      "lastName": "Graves"
+    },
+    "category": 3,
+    "subcategory": 6,
+    "startDate": "2025-07-12T14:32:50.725185",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 7333
+    },
+    "totalHours": 127,
+    "description": "Approach food figure sound. Could form close military statement light mother. Measure show social firm above race. Service level left fight care total no protect.",
+    "goals": [
+      "Foreign business national important make record along hotel attack.",
+      "Hope order still purpose source poor difference art ready major.",
+      "Develop respond news water skill next protect sea party."
+    ],
+    "faqs": [
+      {
+        "question": "Prepare paper really report cup common exist?",
+        "answer": "Standard tend she everything own team professional effect rich word so impact past shoulder my."
+      },
+      {
+        "question": "According industry thing president store wife last throw?",
+        "answer": "Get attorney hour particular network task between wear chance mother difference particularly partner kind movie."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-15T14:32:50.725185",
+    "positions": [
+      {
+        "id": 500,
+        "title": "Structural engineer",
+        "skills": [
+          15,
+          18,
+          4,
+          13,
+          3
+        ],
+        "specialties": [
+          18
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 10,
+    "publishedAt": "2025-05-16T14:32:50.725185"
+  },
+  {
+    "id": 2,
+    "title": "Configurable empowering framework",
+    "organization": {
+      "id": 2,
+      "name": "Reed PLC",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "industry": 15
+    },
+    "projectLeader": {
+      "id": 102,
+      "name": "Jacqueline",
+      "lastName": "Johnson"
+    },
+    "category": 5,
+    "subcategory": 9,
+    "startDate": "2025-07-12T14:32:50.726495",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 4169
+    },
+    "totalHours": 150,
+    "description": "Meet piece south. Across here there to hot.",
+    "goals": [
+      "Address impact long fear particular order sense argue enough.",
+      "Nation protect door writer staff end case natural.",
+      "Democrat return board high past identify improve think similar whether policy."
+    ],
+    "faqs": [
+      {
+        "question": "Then participant when dog little growth?",
+        "answer": "Some common care easy PM goal stuff south only pattern three drive article movement various its."
+      },
+      {
+        "question": "Read collection at reveal develop?",
+        "answer": "Speak happy serve small build another hold cup turn begin least value last news."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-04T14:32:50.726495",
+    "positions": [
+      {
+        "id": 501,
+        "title": "Bonds trader",
+        "skills": [
+          6,
+          18,
+          8,
+          20,
+          15
+        ],
+        "specialties": [
+          13
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 502,
+        "title": "Personnel officer",
+        "skills": [
+          11,
+          7,
+          16,
+          13,
+          15
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 503,
+        "title": "Programmer, applications",
+        "skills": [
+          19,
+          14,
+          13,
+          12
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 20,
+    "publishedAt": "2025-06-01T14:32:50.726495"
+  },
+  {
+    "id": 3,
+    "title": "Reverse-engineered stable hardware",
+    "organization": {
+      "id": 3,
+      "name": "Lee-Martinez",
+      "logo": "https://logo.clearbit.com/google.com",
+      "industry": 16
+    },
+    "projectLeader": {
+      "id": 103,
+      "name": "Victoria",
+      "lastName": "Hayes"
+    },
+    "category": 1,
+    "subcategory": 18,
+    "startDate": "2025-08-14T14:32:50.727600",
+    "budget": {
+      "hourFrom": 23,
+      "hourTo": 62,
+      "total": null
+    },
+    "totalHours": 178,
+    "description": "Most somebody fill. Lot those star behavior evidence.",
+    "goals": [
+      "Agreement we popular audience catch significant while sort ball ten most.",
+      "My make group short food common.",
+      "Art successful threat any another take past."
+    ],
+    "faqs": [
+      {
+        "question": "Where president card reduce sound?",
+        "answer": "City democratic official offer eight economy want fall record cell thank."
+      },
+      {
+        "question": "South answer simple first Mr?",
+        "answer": "Plant case executive line player picture capital water Congress table."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-21T14:32:50.727600",
+    "positions": [
+      {
+        "id": 504,
+        "title": "Personal assistant",
+        "skills": [
+          11,
+          4,
+          10,
+          14
+        ],
+        "specialties": [
+          6
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 505,
+        "title": "Museum/gallery conservator",
+        "skills": [
+          9,
+          17,
+          6,
+          19,
+          4
+        ],
+        "specialties": [
+          10
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 506,
+        "title": "Visual merchandiser",
+        "skills": [
+          1,
+          11,
+          16,
+          20,
+          4
+        ],
+        "specialties": [
+          12
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 5,
+    "publishedAt": "2025-05-30T14:32:50.727600"
+  },
+  {
+    "id": 4,
+    "title": "Balanced systematic neural-net",
+    "organization": {
+      "id": 4,
+      "name": "Boyd, Terry and English",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "industry": 19
+    },
+    "projectLeader": {
+      "id": 104,
+      "name": "Jessica",
+      "lastName": "White"
+    },
+    "category": 4,
+    "subcategory": 8,
+    "startDate": "2025-06-28T14:32:50.728592",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 5705
+    },
+    "totalHours": 180,
+    "description": "Top little method growth these computer behind. Performance network teach he especially modern close. This leg east need defense. Raise think moment off.",
+    "goals": [
+      "Station build economic course indeed cup wide piece might community science.",
+      "Building power list natural turn market character language truth station true.",
+      "I study same role environmental successful will do."
+    ],
+    "faqs": [
+      {
+        "question": "Participant type particular discover?",
+        "answer": "Record mean top hundred significant could follow then product your Mrs media section through mention also various customer."
+      },
+      {
+        "question": "Yard operation nearly husband fill?",
+        "answer": "Speech never next administration member person story decade evening within forward effect."
+      }
+    ],
+    "status": "ACTIVE",
+    "creationDate": "2025-03-30T14:32:50.728592",
+    "positions": [
+      {
+        "id": 507,
+        "title": "Scientist, audiological",
+        "skills": [
+          20,
+          14,
+          7,
+          18,
+          10
+        ],
+        "specialties": [
+          13
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 508,
+        "title": "Health and safety adviser",
+        "skills": [
+          3,
+          2,
+          8
+        ],
+        "specialties": [
+          3
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 12,
+    "publishedAt": "2025-05-09T14:32:50.728592"
+  },
+  {
+    "id": 5,
+    "title": "Vision-oriented background pricing structure",
+    "organization": {
+      "id": 5,
+      "name": "Mcguire-Porter",
+      "logo": "https://logo.clearbit.com/google.com",
+      "industry": 2
+    },
+    "projectLeader": {
+      "id": 105,
+      "name": "Blake",
+      "lastName": "Jones"
+    },
+    "category": 4,
+    "subcategory": 11,
+    "startDate": "2025-07-20T14:32:50.730113",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 6119
+    },
+    "totalHours": 182,
+    "description": "Find accept trouble probably. Face quality morning activity politics. Gun trial top his.",
+    "goals": [
+      "Over the understand inside account day.",
+      "Situation thank upon north quickly cup physical wish.",
+      "Special rather every trade break government half."
+    ],
+    "faqs": [
+      {
+        "question": "Wait seem poor herself toward ask hotel in?",
+        "answer": "Together camera culture dinner throw father practice image provide begin and until window close carry we politics."
+      },
+      {
+        "question": "See reflect food environmental participant decade eight quickly method?",
+        "answer": "Through number particularly several box must appear but tax blood support."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-12T14:32:50.730113",
+    "positions": [
+      {
+        "id": 509,
+        "title": "Contracting civil engineer",
+        "skills": [
+          14,
+          12,
+          20
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 0,
+    "publishedAt": "2025-07-05T14:32:50.730113"
+  },
+  {
+    "id": 6,
+    "title": "Polarized exuding website",
+    "organization": {
+      "id": 6,
+      "name": "Ware-Daniels",
+      "logo": "https://logo.clearbit.com/zoom.us",
+      "industry": 2
+    },
+    "projectLeader": {
+      "id": 106,
+      "name": "Monica",
+      "lastName": "Wells"
+    },
+    "category": 1,
+    "subcategory": 19,
+    "startDate": "2025-08-14T14:32:50.731095",
+    "budget": {
+      "hourFrom": 26,
+      "hourTo": 47,
+      "total": null
+    },
+    "totalHours": 141,
+    "description": "Really miss explain talk beat. By account so political adult have. Under time reality over already activity. Arrive talk upon near final impact treat stand.",
+    "goals": [
+      "Tell would actually measure stock fly meeting yeah no write this eye.",
+      "Training account stop send never end so what bag relationship and fight leader.",
+      "Agreement suffer lose why room word job leg all catch."
+    ],
+    "faqs": [
+      {
+        "question": "Fact modern commercial check?",
+        "answer": "Enjoy well still catch man service majority population seat adult year give letter president cold now now as pick."
+      },
+      {
+        "question": "Population just moment happen?",
+        "answer": "Soldier teach others final good prevent consider central thought film rate operation question even develop."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-03-28T14:32:50.731095",
+    "positions": [
+      {
+        "id": 510,
+        "title": "Animal nutritionist",
+        "skills": [
+          5,
+          14,
+          6,
+          9
+        ],
+        "specialties": [
+          15
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 511,
+        "title": "Environmental education officer",
+        "skills": [
+          4,
+          2,
+          18,
+          1,
+          3
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 512,
+        "title": "Catering manager",
+        "skills": [
+          15,
+          10,
+          14,
+          16
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 11,
+    "publishedAt": "2025-07-09T14:32:50.731095"
+  },
+  {
+    "id": 7,
+    "title": "Multi-layered asymmetric strategy",
+    "organization": {
+      "id": 7,
+      "name": "Mercer Ltd",
+      "logo": "https://logo.clearbit.com/spotify.com",
+      "industry": 9
+    },
+    "projectLeader": {
+      "id": 107,
+      "name": "Renee",
+      "lastName": "Miller"
+    },
+    "category": 4,
+    "subcategory": 5,
+    "startDate": "2025-07-22T14:32:50.732271",
+    "budget": {
+      "hourFrom": 21,
+      "hourTo": 57,
+      "total": null
+    },
+    "totalHours": 165,
+    "description": "Wife style owner organization. Care evening end simply raise assume music management. Remain something result direction.",
+    "goals": [
+      "Weight college itself toward rate natural can writer citizen pull design.",
+      "Detail time TV rest hospital red material.",
+      "Fear they recognize citizen main one up month staff few rock."
+    ],
+    "faqs": [
+      {
+        "question": "Mrs increase parent about official physical blue support?",
+        "answer": "Land music direction garden green window go you officer employee."
+      },
+      {
+        "question": "Risk accept low under environment cultural break hand?",
+        "answer": "Treatment million exactly consider field must human left law sort."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-19T14:32:50.732271",
+    "positions": [
+      {
+        "id": 513,
+        "title": "Education administrator",
+        "skills": [
+          3,
+          20,
+          8
+        ],
+        "specialties": [
+          13
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 9,
+    "publishedAt": "2025-07-11T14:32:50.732271"
+  },
+  {
+    "id": 8,
+    "title": "Front-line needs-based project",
+    "organization": {
+      "id": 8,
+      "name": "Fischer Group",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "industry": 17
+    },
+    "projectLeader": {
+      "id": 108,
+      "name": "Kevin",
+      "lastName": "Franco"
+    },
+    "category": 1,
+    "subcategory": 18,
+    "startDate": "2025-07-31T14:32:50.733164",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 8180
+    },
+    "totalHours": 118,
+    "description": "Seem myself thus book share rate born. During few month best provide. Painting must chair say.",
+    "goals": [
+      "Chance series statement course carry expert simple produce practice others author eye strong.",
+      "Whatever call exist prepare those stock describe admit poor.",
+      "Surface resource put along spring education worry fund street college."
+    ],
+    "faqs": [
+      {
+        "question": "Place society reveal sign she your same notice remember?",
+        "answer": "Anyone behavior truth town should film force write rate enough either figure far voice break industry want organization."
+      },
+      {
+        "question": "Moment major develop two?",
+        "answer": "Price manage time in guess dinner deep south law keep accept high."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-10T14:32:50.733164",
+    "positions": [
+      {
+        "id": 514,
+        "title": "Commercial art gallery manager",
+        "skills": [
+          15,
+          19,
+          4
+        ],
+        "specialties": [
+          3
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 8,
+    "publishedAt": "2025-05-17T14:32:50.733164"
+  },
+  {
+    "id": 9,
+    "title": "Total multi-tasking projection",
+    "organization": {
+      "id": 9,
+      "name": "Hawkins-Scott",
+      "logo": "https://logo.clearbit.com/airbnb.com",
+      "industry": 3
+    },
+    "projectLeader": {
+      "id": 109,
+      "name": "Susan",
+      "lastName": "Singleton"
+    },
+    "category": 4,
+    "subcategory": 9,
+    "startDate": "2025-08-18T14:32:50.733968",
+    "budget": {
+      "hourFrom": 24,
+      "hourTo": 49,
+      "total": null
+    },
+    "totalHours": 85,
+    "description": "Security everyone significant amount take window year. Tree his brother region class attack.",
+    "goals": [
+      "One night financial leave if through investment.",
+      "Cup purpose try knowledge hotel piece already save.",
+      "Treatment establish floor can available recognize either whole natural spend whom."
+    ],
+    "faqs": [
+      {
+        "question": "Full green institution chair newspaper?",
+        "answer": "Man lot upon yard everybody plan notice hair order water own spring himself."
+      },
+      {
+        "question": "Interview say item look report strong push?",
+        "answer": "Chance response power organization but measure call media project wife need cultural term environmental forward."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-03T14:32:50.733968",
+    "positions": [
+      {
+        "id": 515,
+        "title": "Sub",
+        "skills": [
+          18,
+          5,
+          9
+        ],
+        "specialties": [
+          10
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 5,
+    "publishedAt": "2025-05-17T14:32:50.733968"
+  },
+  {
+    "id": 10,
+    "title": "User-friendly content-based hub",
+    "organization": {
+      "id": 10,
+      "name": "Shaw, Mcneil and Hanson",
+      "logo": "https://logo.clearbit.com/airbnb.com",
+      "industry": 12
+    },
+    "projectLeader": {
+      "id": 110,
+      "name": "Ashley",
+      "lastName": "Flynn"
+    },
+    "category": 2,
+    "subcategory": 8,
+    "startDate": "2025-06-20T14:32:50.734776",
+    "budget": {
+      "hourFrom": 40,
+      "hourTo": 49,
+      "total": null
+    },
+    "totalHours": 165,
+    "description": "Never significant series her difficult none decade. Agree campaign health laugh myself maybe analysis.",
+    "goals": [
+      "Rate significant I that account maybe mother and.",
+      "Window current end allow movie final long end have carry most military.",
+      "Voice stock stock reach including find care whether resource dream."
+    ],
+    "faqs": [
+      {
+        "question": "Face baby later dark summer?",
+        "answer": "Include check always Congress town born nearly society special list make yourself."
+      },
+      {
+        "question": "Some window choose table way others son?",
+        "answer": "Activity measure trade player executive staff capital why financial must type radio later care tonight whether old."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-12T14:32:50.734776",
+    "positions": [
+      {
+        "id": 516,
+        "title": "Risk manager",
+        "skills": [
+          15,
+          18,
+          14,
+          1,
+          4
+        ],
+        "specialties": [
+          3
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 8,
+    "publishedAt": "2025-06-02T14:32:50.734776"
+  },
+  {
+    "id": 11,
+    "title": "Organized local encryption",
+    "organization": {
+      "id": 11,
+      "name": "Lutz Inc",
+      "logo": "https://logo.clearbit.com/airbnb.com",
+      "industry": 16
+    },
+    "projectLeader": {
+      "id": 111,
+      "name": "Kevin",
+      "lastName": "Serrano"
+    },
+    "category": 2,
+    "subcategory": 7,
+    "startDate": "2025-06-26T14:32:50.735788",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 5532
+    },
+    "totalHours": 184,
+    "description": "Relationship very place evidence southern. Relationship base threat magazine yes management rather. Fact final agree degree city ask. Dream bed study camera.",
+    "goals": [
+      "Plant could later buy share trial main think need.",
+      "Region heart I again story green former seat Democrat relate finish.",
+      "Structure share office room quality worker."
+    ],
+    "faqs": [
+      {
+        "question": "Which itself customer factor view tree?",
+        "answer": "Worker avoid choice scene important around factor practice fact break."
+      },
+      {
+        "question": "Certain work community campaign material able?",
+        "answer": "Far change two itself with task type word artist believe service moment seat."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-13T14:32:50.735788",
+    "positions": [
+      {
+        "id": 517,
+        "title": "Medical technical officer",
+        "skills": [
+          6,
+          14,
+          1
+        ],
+        "specialties": [
+          6
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 6,
+    "publishedAt": "2025-04-15T14:32:50.735788"
+  },
+  {
+    "id": 12,
+    "title": "Exclusive tangible algorithm",
+    "organization": {
+      "id": 12,
+      "name": "Martin-Solis",
+      "logo": "https://logo.clearbit.com/slack.com",
+      "industry": 12
+    },
+    "projectLeader": {
+      "id": 112,
+      "name": "Julia",
+      "lastName": "Garza"
+    },
+    "category": 5,
+    "subcategory": 13,
+    "startDate": "2025-08-17T14:32:50.736498",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 8000
+    },
+    "totalHours": 166,
+    "description": "Huge reveal international success. Impact article certain garden. Since compare somebody old agent strong now.",
+    "goals": [
+      "Measure choice form management model represent out debate rich show near month listen.",
+      "Thought trip better account majority sometimes meeting let wife just new.",
+      "Throw even region yourself top method national election city hour body laugh tell."
+    ],
+    "faqs": [
+      {
+        "question": "Race gas fish popular wrong Republican food among?",
+        "answer": "Plant stock baby true someone serious so city treatment bar fish share kid bad success need campaign near."
+      },
+      {
+        "question": "Day public improve mission wonder relationship?",
+        "answer": "Beat run evening two by have significant know back follow its police relationship care stuff tough huge present day."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-20T14:32:50.736498",
+    "positions": [
+      {
+        "id": 518,
+        "title": "Engineer, chemical",
+        "skills": [
+          1,
+          7,
+          13
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 1,
+    "publishedAt": "2025-05-31T14:32:50.736498"
+  },
+  {
+    "id": 13,
+    "title": "Versatile real-time encoding",
+    "organization": {
+      "id": 13,
+      "name": "Cooper LLC",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "industry": 7
+    },
+    "projectLeader": {
+      "id": 113,
+      "name": "Jeremy",
+      "lastName": "Russell"
+    },
+    "category": 3,
+    "subcategory": 2,
+    "startDate": "2025-08-12T14:32:50.737431",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 3452
+    },
+    "totalHours": 170,
+    "description": "Should until believe laugh stand power hot. Congress upon inside rest page pass. Break kid wonder conference discover green rather. Move boy camera almost none real.",
+    "goals": [
+      "Big art region increase would against pick can turn.",
+      "Push pressure beat force sometimes although kitchen population whatever thousand cold out.",
+      "Traditional west attention stay own remain."
+    ],
+    "faqs": [
+      {
+        "question": "Traditional soldier add world authority machine such customer?",
+        "answer": "Reality fish part student with option model single follow price agree production."
+      },
+      {
+        "question": "Force partner necessary sound opportunity only?",
+        "answer": "Hold first recently record sense close region real article prepare your inside sign treat news."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-25T14:32:50.737431",
+    "positions": [
+      {
+        "id": 519,
+        "title": "Engineer, communications",
+        "skills": [
+          6,
+          19,
+          9,
+          2
+        ],
+        "specialties": [
+          4
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 5,
+    "publishedAt": "2025-05-16T14:32:50.737431"
+  },
+  {
+    "id": 14,
+    "title": "Multi-lateral human-resource protocol",
+    "organization": {
+      "id": 14,
+      "name": "Marquez Inc",
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "industry": 20
+    },
+    "projectLeader": {
+      "id": 114,
+      "name": "Pamela",
+      "lastName": "Gordon"
+    },
+    "category": 5,
+    "subcategory": 10,
+    "startDate": "2025-07-17T14:32:50.738356",
+    "budget": {
+      "hourFrom": 31,
+      "hourTo": 54,
+      "total": null
+    },
+    "totalHours": 131,
+    "description": "Easy example daughter cover respond movement us safe. Place weight soon leave level. Another return evidence concern. Fall everything first he value box.",
+    "goals": [
+      "Water research however clear behind kid always hear world bad.",
+      "Economy have sign news significant address particularly fish they.",
+      "Gas seat week receive everything sell necessary other perhaps start will paper not."
+    ],
+    "faqs": [
+      {
+        "question": "Education true real quite value?",
+        "answer": "Foot carry human road rich including nor stand tell gas people."
+      },
+      {
+        "question": "Note art scene weight drop?",
+        "answer": "Level bag bar official adult good low evening risk former."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-03-22T14:32:50.738356",
+    "positions": [
+      {
+        "id": 520,
+        "title": "Education administrator",
+        "skills": [
+          11,
+          20,
+          4,
+          10,
+          17
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 6,
+    "publishedAt": "2025-07-02T14:32:50.738356"
+  },
+  {
+    "id": 15,
+    "title": "Function-based eco-centric approach",
+    "organization": {
+      "id": 15,
+      "name": "Hicks PLC",
+      "logo": "https://logo.clearbit.com/spotify.com",
+      "industry": 10
+    },
+    "projectLeader": {
+      "id": 115,
+      "name": "Juan",
+      "lastName": "Fuentes"
+    },
+    "category": 2,
+    "subcategory": 7,
+    "startDate": "2025-07-25T14:32:50.739042",
+    "budget": {
+      "hourFrom": 29,
+      "hourTo": 50,
+      "total": null
+    },
+    "totalHours": 98,
+    "description": "Professor audience former tend small. Across energy gun former quickly green loss. Next hold toward customer who. Country arrive interview.",
+    "goals": [
+      "Center theory case computer join myself feeling challenge agency.",
+      "Who such west main power tend.",
+      "Religious walk down teacher experience economy."
+    ],
+    "faqs": [
+      {
+        "question": "Our order option do board more local pretty seek?",
+        "answer": "Seven opportunity common dream wonder program since person mother fund."
+      },
+      {
+        "question": "Produce her generation dinner area?",
+        "answer": "Establish these development sense agency idea suddenly citizen outside policy about blue."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-14T14:32:50.739042",
+    "positions": [
+      {
+        "id": 521,
+        "title": "Engineer, water",
+        "skills": [
+          19,
+          11,
+          15,
+          18
+        ],
+        "specialties": [
+          15
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 8,
+    "publishedAt": "2025-07-11T14:32:50.739042"
+  },
+  {
+    "id": 16,
+    "title": "Enhanced disintermediate array",
+    "organization": {
+      "id": 16,
+      "name": "Zimmerman, Nunez and Hughes",
+      "logo": "https://logo.clearbit.com/google.com",
+      "industry": 14
+    },
+    "projectLeader": {
+      "id": 116,
+      "name": "Robin",
+      "lastName": "Lloyd"
+    },
+    "category": 2,
+    "subcategory": 6,
+    "startDate": "2025-06-21T14:32:50.739738",
+    "budget": {
+      "hourFrom": 35,
+      "hourTo": 60,
+      "total": null
+    },
+    "totalHours": 182,
+    "description": "Production really at begin certain. Floor matter as begin pay party if group. Later point hospital draw rather require financial six.",
+    "goals": [
+      "Must American process so sea model miss without product foot across station campaign.",
+      "Word industry phone throw good receive myself admit.",
+      "Learn left country project medical project."
+    ],
+    "faqs": [
+      {
+        "question": "Minute finally education mouth?",
+        "answer": "Style everything force college oil yard score ten well art start speak after me reason hotel back yard safe."
+      },
+      {
+        "question": "Their wear everything lawyer some Mr job his?",
+        "answer": "Should relationship matter spend future be rock mind investment enough data better beyond which wide reach bar these."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-03-24T14:32:50.739738",
+    "positions": [
+      {
+        "id": 522,
+        "title": "Human resources officer",
+        "skills": [
+          14,
+          19,
+          7,
+          13
+        ],
+        "specialties": [
+          16
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 3,
+    "publishedAt": "2025-06-20T14:32:50.739738"
+  },
+  {
+    "id": 17,
+    "title": "Compatible 3rdgeneration matrices",
+    "organization": {
+      "id": 17,
+      "name": "Williams, Mcneil and Shaffer",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "industry": 13
+    },
+    "projectLeader": {
+      "id": 117,
+      "name": "Mark",
+      "lastName": "Jones"
+    },
+    "category": 4,
+    "subcategory": 1,
+    "startDate": "2025-08-03T14:32:50.740752",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 3822
+    },
+    "totalHours": 200,
+    "description": "Stuff woman work same. Participant later artist many religious red. What this machine long project project year. Effect add mean structure make science just.",
+    "goals": [
+      "Paper front PM tax street argue however against assume good.",
+      "Various become themselves court sign toward cause main now.",
+      "Read relationship drop eight small wish pressure couple."
+    ],
+    "faqs": [
+      {
+        "question": "Window operation find near?",
+        "answer": "Mention entire safe dinner eight north former bill raise stuff film serious goal us long deal career."
+      },
+      {
+        "question": "Capital put nature major child?",
+        "answer": "Wind challenge sometimes point hand begin pressure these door art much improve administration."
+      }
+    ],
+    "status": "DRAFT",
+    "creationDate": "2025-04-24T14:32:50.740752",
+    "positions": [
+      {
+        "id": 523,
+        "title": "Event organiser",
+        "skills": [
+          4,
+          15,
+          5
+        ],
+        "specialties": [
+          15
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 524,
+        "title": "Analytical chemist",
+        "skills": [
+          15,
+          9,
+          8,
+          19
+        ],
+        "specialties": [
+          17
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 525,
+        "title": "Optometrist",
+        "skills": [
+          3,
+          14,
+          19
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 23,
+    "publishedAt": null
+  },
+  {
+    "id": 18,
+    "title": "Devolved global interface",
+    "organization": {
+      "id": 18,
+      "name": "Williams-Reyes",
+      "logo": "https://logo.clearbit.com/airbnb.com",
+      "industry": 12
+    },
+    "projectLeader": {
+      "id": 118,
+      "name": "Kyle",
+      "lastName": "Lozano"
+    },
+    "category": 2,
+    "subcategory": 3,
+    "startDate": "2025-07-12T14:32:50.741974",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 9865
+    },
+    "totalHours": 179,
+    "description": "Half opportunity wait remember. Wonder themselves out perhaps cultural campaign pressure everyone. Situation include look third.",
+    "goals": [
+      "Radio she daughter how same physical discussion suddenly.",
+      "Event tough difference company forward likely however food own present each station.",
+      "Author three join machine admit attack bring money."
+    ],
+    "faqs": [
+      {
+        "question": "With rule company employee also raise Mr?",
+        "answer": "Three be system dark not it garden order bank father much build."
+      },
+      {
+        "question": "Performance hot however PM technology kitchen sometimes own region?",
+        "answer": "Less stock little if read commercial he service manager opportunity culture spend ability maintain outside."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-10T14:32:50.741974",
+    "positions": [
+      {
+        "id": 526,
+        "title": "Museum education officer",
+        "skills": [
+          18,
+          8,
+          16,
+          19,
+          9
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 527,
+        "title": "Buyer, retail",
+        "skills": [
+          11,
+          13,
+          6,
+          15
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": null
+      },
+      {
+        "id": 528,
+        "title": "Tour manager",
+        "skills": [
+          13,
+          11,
+          7,
+          15
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 12,
+    "publishedAt": "2025-05-26T14:32:50.741974"
+  },
+  {
+    "id": 19,
+    "title": "Innovative incremental Local Area Network",
+    "organization": {
+      "id": 19,
+      "name": "Cohen, Ramirez and Gilbert",
+      "logo": "https://logo.clearbit.com/slack.com",
+      "industry": 4
+    },
+    "projectLeader": {
+      "id": 119,
+      "name": "Paul",
+      "lastName": "Bowen"
+    },
+    "category": 5,
+    "subcategory": 1,
+    "startDate": "2025-07-31T14:32:50.742902",
+    "budget": {
+      "hourFrom": 27,
+      "hourTo": 47,
+      "total": null
+    },
+    "totalHours": 198,
+    "description": "Available prevent property in. Trade environmental sign rather win southern doctor. Type different down successful eye fill year. Special hair thousand address interesting. Follow how close red.",
+    "goals": [
+      "Collection street south argue dark stock until free wrong people change beat.",
+      "Safe their much simple professional number list main black think avoid land.",
+      "Whose same certainly only clear present international."
+    ],
+    "faqs": [
+      {
+        "question": "Above guy western book pattern moment prepare low?",
+        "answer": "Marriage season military memory stand law exist everyone push change put half sea admit structure perhaps."
+      },
+      {
+        "question": "Number site open order out seat expect?",
+        "answer": "Goal between cover few why practice thank when hour anything radio discuss."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-03-24T14:32:50.742902",
+    "positions": [
+      {
+        "id": 529,
+        "title": "Lecturer, higher education",
+        "skills": [
+          5,
+          8,
+          20,
+          16,
+          4
+        ],
+        "specialties": [
+          19
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 7,
+    "publishedAt": "2025-04-15T14:32:50.742902"
+  },
+  {
+    "id": 20,
+    "title": "Self-enabling systemic product",
+    "organization": {
+      "id": 20,
+      "name": "Strickland-Salas",
+      "logo": "https://logo.clearbit.com/shopify.com",
+      "industry": 19
+    },
+    "projectLeader": {
+      "id": 120,
+      "name": "Scott",
+      "lastName": "Garrett"
+    },
+    "category": 5,
+    "subcategory": 13,
+    "startDate": "2025-07-09T14:32:50.743891",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 9498
+    },
+    "totalHours": 123,
+    "description": "How tree project institution. Process suddenly live physical bar difficult action concern. Tv newspaper tend up produce degree. Military difficult night sit cover friend.",
+    "goals": [
+      "Cold article city tough wife news alone decision cut statement each.",
+      "Become determine five involve political because draw nothing bag.",
+      "Easy surface case party ago easy avoid church TV leader reality perform."
+    ],
+    "faqs": [
+      {
+        "question": "Once number sing boy back kid stuff?",
+        "answer": "Same after federal team short world Republican election red compare leader inside never across begin media."
+      },
+      {
+        "question": "War find owner public next pick?",
+        "answer": "Although within better body practice I stage next thus everything."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-27T14:32:50.743891",
+    "positions": [
+      {
+        "id": 530,
+        "title": "Publishing copy",
+        "skills": [
+          3,
+          19,
+          8
+        ],
+        "specialties": [
+          4
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 531,
+        "title": "Editorial assistant",
+        "skills": [
+          4,
+          14,
+          12,
+          15
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 532,
+        "title": "Designer, television/film set",
+        "skills": [
+          20,
+          18,
+          16,
+          15
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 17,
+    "publishedAt": "2025-06-21T14:32:50.743891"
+  },
+  {
+    "id": 21,
+    "title": "Cross-group radical monitoring",
+    "organization": {
+      "id": 21,
+      "name": "Wallace, Jones and Maddox",
+      "logo": "https://logo.clearbit.com/gitlab.com",
+      "industry": 12
+    },
+    "projectLeader": {
+      "id": 121,
+      "name": "Teresa",
+      "lastName": "Leonard"
+    },
+    "category": 4,
+    "subcategory": 18,
+    "startDate": "2025-06-21T14:32:50.744759",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 5979
+    },
+    "totalHours": 122,
+    "description": "Morning herself since eight certainly can. Various author risk red. Admit program other seem across table. If until whose with air seat.",
+    "goals": [
+      "Down including sing blue a major store blue.",
+      "Tv position so pressure often perform exactly to despite mouth rock knowledge between possible.",
+      "Group mouth single modern door maintain."
+    ],
+    "faqs": [
+      {
+        "question": "Growth school a light truth medical interesting air?",
+        "answer": "Arrive let today lawyer toward democratic leader clear executive clearly worker skin open religious read and reach grow wall."
+      },
+      {
+        "question": "Prove someone agree quickly movie religious cultural feeling?",
+        "answer": "Specific book method where exactly him his high large need receive score avoid local its cell consider."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-22T14:32:50.744759",
+    "positions": [
+      {
+        "id": 533,
+        "title": "Surveyor, insurance",
+        "skills": [
+          12,
+          9,
+          11
+        ],
+        "specialties": [
+          9
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 534,
+        "title": "Marketing executive",
+        "skills": [
+          15,
+          1,
+          3,
+          10
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 11,
+    "publishedAt": "2025-06-15T14:32:50.744759"
+  },
+  {
+    "id": 22,
+    "title": "Business-focused cohesive approach",
+    "organization": {
+      "id": 22,
+      "name": "James-Powell",
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "industry": 9
+    },
+    "projectLeader": {
+      "id": 122,
+      "name": "Patricia",
+      "lastName": "Shaw"
+    },
+    "category": 1,
+    "subcategory": 2,
+    "startDate": "2025-07-12T14:32:50.745929",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 7438
+    },
+    "totalHours": 150,
+    "description": "Inside production measure rate beautiful avoid. Spring car over watch attention. Guess house crime protect about. Rate newspaper soldier let stop community would.",
+    "goals": [
+      "School whatever most find win relationship weight seven fast just course shake.",
+      "Bag whatever manager who own along administration.",
+      "Exactly brother foreign explain price after about machine listen send past see section."
+    ],
+    "faqs": [
+      {
+        "question": "Cost future organization then?",
+        "answer": "Medical bag president notice task make offer trade discover girl contain next assume close film read almost church value."
+      },
+      {
+        "question": "Cultural hair research might season?",
+        "answer": "Sit onto important party sometimes task rate production media green line."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-05T14:32:50.745929",
+    "positions": [
+      {
+        "id": 535,
+        "title": "Energy manager",
+        "skills": [
+          8,
+          4,
+          7,
+          11
+        ],
+        "specialties": [
+          4
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 536,
+        "title": "Restaurant manager",
+        "skills": [
+          20,
+          10,
+          4,
+          7,
+          19
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 5,
+    "publishedAt": "2025-05-18T14:32:50.745929"
+  },
+  {
+    "id": 23,
+    "title": "Organized intermediate Graphic Interface",
+    "organization": {
+      "id": 23,
+      "name": "Rowe and Sons",
+      "logo": "https://logo.clearbit.com/atlassian.com",
+      "industry": 10
+    },
+    "projectLeader": {
+      "id": 123,
+      "name": "Walter",
+      "lastName": "Wilson"
+    },
+    "category": 5,
+    "subcategory": 20,
+    "startDate": "2025-07-08T14:32:50.746731",
+    "budget": {
+      "hourFrom": 40,
+      "hourTo": 68,
+      "total": null
+    },
+    "totalHours": 87,
+    "description": "Green oil call song. Raise human throw baby money then another who. Enough lead hear threat kind personal music establish. World family few wrong easy beautiful police too. Election significant political really always will.",
+    "goals": [
+      "Me item sure main capital store authority final some operation her grow wish.",
+      "Concern agree pressure kid catch surface material simple section ball letter federal week.",
+      "Require here herself subject phone such."
+    ],
+    "faqs": [
+      {
+        "question": "Work cell dark improve four magazine current?",
+        "answer": "Teacher themselves without into help act firm analysis make."
+      },
+      {
+        "question": "Behind list short though choice morning?",
+        "answer": "Recent probably believe account reason foreign memory season entire family this learn across season authority common."
+      }
+    ],
+    "status": "COMPLETED",
+    "creationDate": "2025-05-05T14:32:50.746731",
+    "positions": [
+      {
+        "id": 537,
+        "title": "Secretary, company",
+        "skills": [
+          1,
+          19,
+          10
+        ],
+        "specialties": [
+          16
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 538,
+        "title": "Surgeon",
+        "skills": [
+          2,
+          5,
+          19,
+          10,
+          3
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 15,
+    "publishedAt": "2025-06-05T14:32:50.746731"
+  },
+  {
+    "id": 24,
+    "title": "Pre-emptive coherent middleware",
+    "organization": {
+      "id": 24,
+      "name": "Reyes, Skinner and Clayton",
+      "logo": "https://logo.clearbit.com/netflix.com",
+      "industry": 16
+    },
+    "projectLeader": {
+      "id": 124,
+      "name": "Mason",
+      "lastName": "Burns"
+    },
+    "category": 3,
+    "subcategory": 2,
+    "startDate": "2025-07-29T14:32:50.747417",
+    "budget": {
+      "hourFrom": 26,
+      "hourTo": 61,
+      "total": null
+    },
+    "totalHours": 109,
+    "description": "Letter raise story describe. Certain go year understand worry top. Wait public affect hair feel beat. Blue education laugh do figure travel. House exactly measure right build.",
+    "goals": [
+      "Report baby lawyer western certainly outside language without community particular series whom still.",
+      "Area experience more center these customer thing type article medical.",
+      "A practice finish medical middle reality all nation outside customer."
+    ],
+    "faqs": [
+      {
+        "question": "Although appear exactly human?",
+        "answer": "Usually let since then trial network officer risk political mouth central between list debate development television long."
+      },
+      {
+        "question": "Size school test hotel?",
+        "answer": "Condition sell window talk now determine health threat ahead resource mission set if form dog interest believe where successful add."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-08T14:32:50.747417",
+    "positions": [
+      {
+        "id": 539,
+        "title": "Financial manager",
+        "skills": [
+          3,
+          6,
+          8,
+          19
+        ],
+        "specialties": [
+          18
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 2,
+    "publishedAt": "2025-07-02T14:32:50.747417"
+  },
+  {
+    "id": 25,
+    "title": "Versatile motivating instruction set",
+    "organization": {
+      "id": 25,
+      "name": "Allen, Walker and Allen",
+      "logo": "https://logo.clearbit.com/slack.com",
+      "industry": 13
+    },
+    "projectLeader": {
+      "id": 125,
+      "name": "David",
+      "lastName": "Hobbs"
+    },
+    "category": 3,
+    "subcategory": 17,
+    "startDate": "2025-07-08T14:32:50.748829",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 10438
+    },
+    "totalHours": 149,
+    "description": "Teach travel catch. Certainly their both spend world. Account staff yet explain same participant candidate. Night it difficult media majority memory about. Bank teach environment.",
+    "goals": [
+      "Car floor keep citizen watch country rise leg million second.",
+      "Ball year fund fund call condition recently public.",
+      "Instead certainly key keep suggest his my ground reveal."
+    ],
+    "faqs": [
+      {
+        "question": "Add candidate take yes?",
+        "answer": "Rule easy month most public seven rest meeting hair nature gas common education charge."
+      },
+      {
+        "question": "Foot same walk action evidence example?",
+        "answer": "Summer left indicate another common authority technology voice safe nice through movement cover up create."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-06T14:32:50.748829",
+    "positions": [
+      {
+        "id": 540,
+        "title": "Lobbyist",
+        "skills": [
+          8,
+          9,
+          7,
+          14,
+          4
+        ],
+        "specialties": [
+          18
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 10,
+    "publishedAt": "2025-06-26T14:32:50.748829"
+  },
+  {
+    "id": 26,
+    "title": "Persistent explicit installation",
+    "organization": {
+      "id": 26,
+      "name": "Clark-Gonzalez",
+      "logo": "https://logo.clearbit.com/google.com",
+      "industry": 13
+    },
+    "projectLeader": {
+      "id": 126,
+      "name": "Garrett",
+      "lastName": "Fernandez"
+    },
+    "category": 5,
+    "subcategory": 1,
+    "startDate": "2025-07-21T14:32:50.749902",
+    "budget": {
+      "hourFrom": 39,
+      "hourTo": 42,
+      "total": null
+    },
+    "totalHours": 164,
+    "description": "Direction become degree visit challenge here together. Paper newspaper have money pull better. A lose city wait material use drug somebody.",
+    "goals": [
+      "Own suffer lawyer vote decision me development lead true.",
+      "Ago drop as teach me provide.",
+      "When concern the skill season beautiful subject then decision population bag."
+    ],
+    "faqs": [
+      {
+        "question": "Notice senior while conference weight?",
+        "answer": "Couple war leader professor company pattern actually stuff structure defense still range movie vote research work stop allow fly."
+      },
+      {
+        "question": "Especially agree general design star?",
+        "answer": "Anyone knowledge management fill remember avoid interesting ground offer result research write figure force."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-19T14:32:50.749902",
+    "positions": [
+      {
+        "id": 541,
+        "title": "Mining engineer",
+        "skills": [
+          11,
+          9,
+          1,
+          3,
+          8
+        ],
+        "specialties": [
+          19
+        ],
+        "referralBonus": null
+      },
+      {
+        "id": 542,
+        "title": "Freight forwarder",
+        "skills": [
+          16,
+          12,
+          14
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 20,
+    "publishedAt": "2025-06-25T14:32:50.749902"
+  },
+  {
+    "id": 27,
+    "title": "Integrated coherent complexity",
+    "organization": {
+      "id": 27,
+      "name": "Watson-Wright",
+      "logo": "https://logo.clearbit.com/shopify.com",
+      "industry": 4
+    },
+    "projectLeader": {
+      "id": 127,
+      "name": "Kristin",
+      "lastName": "Beck"
+    },
+    "category": 1,
+    "subcategory": 20,
+    "startDate": "2025-08-14T14:32:50.750894",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 9770
+    },
+    "totalHours": 182,
+    "description": "East fund dark less step recently. That central recent skin forward. Nice nothing use as nature produce family. Stage physical few board position dream.",
+    "goals": [
+      "Fall next subject put loss determine respond gun drug western character spend together.",
+      "Save which avoid big begin history style care.",
+      "Art allow study west fly task job want."
+    ],
+    "faqs": [
+      {
+        "question": "Meet business foot art want?",
+        "answer": "Law claim positive enough successful light can over what for church technology increase local stop."
+      },
+      {
+        "question": "Tend realize benefit do reduce need push consider?",
+        "answer": "Theory spend college suffer dark admit ahead chair despite take share including heavy piece however but form idea travel the."
+      }
+    ],
+    "status": "DRAFT",
+    "creationDate": "2025-04-25T14:32:50.750894",
+    "positions": [
+      {
+        "id": 543,
+        "title": "Broadcast engineer",
+        "skills": [
+          17,
+          12,
+          16
+        ],
+        "specialties": [
+          15
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 3,
+    "publishedAt": null
+  },
+  {
+    "id": 28,
+    "title": "Phased directional project",
+    "organization": {
+      "id": 28,
+      "name": "Taylor, Norman and Cook",
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "industry": 13
+    },
+    "projectLeader": {
+      "id": 128,
+      "name": "Barbara",
+      "lastName": "Good"
+    },
+    "category": 2,
+    "subcategory": 20,
+    "startDate": "2025-07-05T14:32:50.751739",
+    "budget": {
+      "hourFrom": 29,
+      "hourTo": 58,
+      "total": null
+    },
+    "totalHours": 145,
+    "description": "Much town determine much then. National long if wonder learn. Avoid story share ability whose rate three available.",
+    "goals": [
+      "Easy piece body seem both man base voice share evidence treatment executive collection.",
+      "Realize his cell marriage throw history successful above one represent give others.",
+      "Political see figure wish member ever."
+    ],
+    "faqs": [
+      {
+        "question": "Next together use still hold series social wish?",
+        "answer": "Tend fall system hear side according mention pretty go leader good contain doctor add fight memory sense."
+      },
+      {
+        "question": "Thought difficult travel much even decade improve PM his?",
+        "answer": "Sort loss week want car it office center hot development agent political discover structure truth."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-06T14:32:50.751739",
+    "positions": [
+      {
+        "id": 544,
+        "title": "Communications engineer",
+        "skills": [
+          14,
+          3,
+          8,
+          4,
+          15
+        ],
+        "specialties": [
+          4
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 7,
+    "publishedAt": "2025-05-11T14:32:50.751739"
+  },
+  {
+    "id": 29,
+    "title": "Customer-focused next generation alliance",
+    "organization": {
+      "id": 29,
+      "name": "Richardson LLC",
+      "logo": "https://logo.clearbit.com/airbnb.com",
+      "industry": 11
+    },
+    "projectLeader": {
+      "id": 129,
+      "name": "Amanda",
+      "lastName": "Daniels"
+    },
+    "category": 4,
+    "subcategory": 13,
+    "startDate": "2025-08-06T14:32:50.752644",
+    "budget": {
+      "hourFrom": 22,
+      "hourTo": 49,
+      "total": null
+    },
+    "totalHours": 129,
+    "description": "Threat radio ability save nature field discussion. Table entire along international require high scene. Strong economic here fact what. Local door actually south. Bring actually yourself side sound product home throw.",
+    "goals": [
+      "Six this difficult area rise environment cover.",
+      "Where boy board base including few respond husband trouble because push keep.",
+      "Child and game street even do either story camera."
+    ],
+    "faqs": [
+      {
+        "question": "Note best do agency both?",
+        "answer": "Raise nothing section million eye move risk phone dinner walk visit soon huge Mr."
+      },
+      {
+        "question": "Interest several stand when own financial special or method?",
+        "answer": "Number get doctor break art chair everybody defense truth great success offer financial military possible long free few really go."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-17T14:32:50.752644",
+    "positions": [
+      {
+        "id": 545,
+        "title": "Medical sales representative",
+        "skills": [
+          17,
+          9,
+          1,
+          10
+        ],
+        "specialties": [
+          10
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 546,
+        "title": "Hydrogeologist",
+        "skills": [
+          18,
+          20,
+          13,
+          15
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 5,
+    "publishedAt": "2025-07-06T14:32:50.752644"
+  },
+  {
+    "id": 30,
+    "title": "Grass-roots fresh-thinking standardization",
+    "organization": {
+      "id": 30,
+      "name": "Simpson and Sons",
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "industry": 14
+    },
+    "projectLeader": {
+      "id": 130,
+      "name": "Daisy",
+      "lastName": "Flores"
+    },
+    "category": 2,
+    "subcategory": 3,
+    "startDate": "2025-08-01T14:32:50.753421",
+    "budget": {
+      "hourFrom": 35,
+      "hourTo": 42,
+      "total": null
+    },
+    "totalHours": 140,
+    "description": "War idea miss method. Another arrive admit because could cup practice.",
+    "goals": [
+      "Computer them structure American produce military themselves someone mention.",
+      "Tell time this what suffer piece offer general.",
+      "Cover response where economic give floor couple."
+    ],
+    "faqs": [
+      {
+        "question": "Anyone until owner attorney nature issue throughout main?",
+        "answer": "Have them talk talk feel debate land receive raise treatment act around lose wife."
+      },
+      {
+        "question": "Soon white watch main election bar statement modern?",
+        "answer": "Black buy purpose mission myself name coach teacher explain within back various."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-11T14:32:50.753421",
+    "positions": [
+      {
+        "id": 547,
+        "title": "Building services engineer",
+        "skills": [
+          19,
+          11,
+          4,
+          15,
+          18
+        ],
+        "specialties": [
+          17
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 0,
+    "publishedAt": "2025-06-19T14:32:50.753421"
+  },
+  {
+    "id": 31,
+    "title": "Fully-configurable upward-trending throughput",
+    "organization": {
+      "id": 31,
+      "name": "Bird-Cooley",
+      "logo": "https://logo.clearbit.com/slack.com",
+      "industry": 15
+    },
+    "projectLeader": {
+      "id": 131,
+      "name": "Alan",
+      "lastName": "Rodriguez"
+    },
+    "category": 3,
+    "subcategory": 1,
+    "startDate": "2025-08-09T14:32:50.754124",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 9512
+    },
+    "totalHours": 195,
+    "description": "Amount everybody indicate commercial clearly. Walk anything why allow radio population. Red my city chance for. Body fill age board moment quickly sign.",
+    "goals": [
+      "Family hundred kind us film do.",
+      "Decide garden democratic indeed then past say need sister near want feeling.",
+      "Upon south help main herself project important run they have explain recent."
+    ],
+    "faqs": [
+      {
+        "question": "Something rich boy mother attorney?",
+        "answer": "Minute paper western address debate government situation local lay effort good for eight."
+      },
+      {
+        "question": "Report stay manage structure training make rule?",
+        "answer": "Car I hair choose development good space at improve information design wall center management."
+      }
+    ],
+    "status": "ARCHIVED",
+    "creationDate": "2025-04-07T14:32:50.754124",
+    "positions": [
+      {
+        "id": 548,
+        "title": "Food technologist",
+        "skills": [
+          11,
+          18,
+          13
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 549,
+        "title": "Film/video editor",
+        "skills": [
+          4,
+          15,
+          6,
+          10,
+          1
+        ],
+        "specialties": [
+          2
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 550,
+        "title": "Animator",
+        "skills": [
+          12,
+          20,
+          14,
+          5
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 17,
+    "publishedAt": null
+  },
+  {
+    "id": 32,
+    "title": "Proactive systemic challenge",
+    "organization": {
+      "id": 32,
+      "name": "Burton, Newman and Mclaughlin",
+      "logo": "https://logo.clearbit.com/slack.com",
+      "industry": 1
+    },
+    "projectLeader": {
+      "id": 132,
+      "name": "Matthew",
+      "lastName": "Green"
+    },
+    "category": 4,
+    "subcategory": 9,
+    "startDate": "2025-08-10T14:32:50.754971",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 11955
+    },
+    "totalHours": 81,
+    "description": "Reason animal left. Interesting ball drop security true society woman.",
+    "goals": [
+      "Notice factor turn loss suggest nature begin.",
+      "Cultural authority attention popular evening black together door.",
+      "Own create worry tell question who product threat difficult senior discover argue."
+    ],
+    "faqs": [
+      {
+        "question": "Charge conference these speech?",
+        "answer": "Appear authority meeting light science ground southern Mr as sea floor knowledge."
+      },
+      {
+        "question": "Authority mind discussion hour reveal her?",
+        "answer": "Others then special big evening development life you these skin up."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-20T14:32:50.754971",
+    "positions": [
+      {
+        "id": 551,
+        "title": "Cabin crew",
+        "skills": [
+          15,
+          12,
+          10
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 7,
+    "publishedAt": "2025-07-24T14:32:50.754971"
+  },
+  {
+    "id": 33,
+    "title": "Progressive high-level open system",
+    "organization": {
+      "id": 33,
+      "name": "Smith, Griffin and Wallace",
+      "logo": "https://logo.clearbit.com/gitlab.com",
+      "industry": 17
+    },
+    "projectLeader": {
+      "id": 133,
+      "name": "Christopher",
+      "lastName": "Smith"
+    },
+    "category": 3,
+    "subcategory": 6,
+    "startDate": "2025-07-26T14:32:50.755962",
+    "budget": {
+      "hourFrom": 39,
+      "hourTo": 64,
+      "total": null
+    },
+    "totalHours": 112,
+    "description": "Hundred officer baby be. Example box soon green blue.",
+    "goals": [
+      "Her television west fund fine suggest by with number another.",
+      "Situation charge question red executive mean article support care business.",
+      "Machine form herself modern organization head wind action ever late up while."
+    ],
+    "faqs": [
+      {
+        "question": "Brother section scene international middle its top?",
+        "answer": "They line air bar late hard easy in really hear up walk pull after."
+      },
+      {
+        "question": "Eight loss pass skill tonight teacher?",
+        "answer": "Out Mr talk artist operation another believe inside not thing rate model special reason difference mother east cell our movie."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-16T14:32:50.755962",
+    "positions": [
+      {
+        "id": 552,
+        "title": "Programmer, systems",
+        "skills": [
+          8,
+          12,
+          20,
+          7
+        ],
+        "specialties": [
+          20
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 553,
+        "title": "Accountant, chartered",
+        "skills": [
+          3,
+          10,
+          11
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 13,
+    "publishedAt": "2025-06-28T14:32:50.755962"
+  },
+  {
+    "id": 34,
+    "title": "Grass-roots interactive budgetary management",
+    "organization": {
+      "id": 34,
+      "name": "Walker and Sons",
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "industry": 14
+    },
+    "projectLeader": {
+      "id": 134,
+      "name": "Michael",
+      "lastName": "Clark"
+    },
+    "category": 1,
+    "subcategory": 16,
+    "startDate": "2025-08-17T14:32:50.756929",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 7835
+    },
+    "totalHours": 158,
+    "description": "Rest shoulder your behavior dinner. Thousand letter thought somebody director.",
+    "goals": [
+      "Rock section lose thus explain activity professional clear already quality race beat local.",
+      "Guess thought treatment meeting effort shake information.",
+      "Catch environmental week after section suddenly large despite."
+    ],
+    "faqs": [
+      {
+        "question": "Plant including source away discover bed child return water?",
+        "answer": "Everything single value job art sing thousand place form enjoy."
+      },
+      {
+        "question": "Yourself quality order up water ok local particular?",
+        "answer": "Seem available amount yourself never as his media yet boy car current do look the health."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-13T14:32:50.756929",
+    "positions": [
+      {
+        "id": 554,
+        "title": "Engineer, control and instrumentation",
+        "skills": [
+          4,
+          15,
+          3,
+          5
+        ],
+        "specialties": [
+          8
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 555,
+        "title": "Accountant, chartered",
+        "skills": [
+          12,
+          4,
+          8,
+          16,
+          1
+        ],
+        "specialties": [
+          20
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 556,
+        "title": "Hydrogeologist",
+        "skills": [
+          4,
+          20,
+          8,
+          5
+        ],
+        "specialties": [
+          13
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 22,
+    "publishedAt": "2025-06-10T14:32:50.756929"
+  },
+  {
+    "id": 35,
+    "title": "Stand-alone even-keeled middleware",
+    "organization": {
+      "id": 35,
+      "name": "Dunn-Scott",
+      "logo": "https://logo.clearbit.com/stripe.com",
+      "industry": 4
+    },
+    "projectLeader": {
+      "id": 135,
+      "name": "Henry",
+      "lastName": "Cooper"
+    },
+    "category": 1,
+    "subcategory": 5,
+    "startDate": "2025-07-16T14:32:50.757646",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 3536
+    },
+    "totalHours": 81,
+    "description": "Far bit race. Explain class officer simply. Protect people drug least he yes rich. President among either box. Mean there play put central want imagine.",
+    "goals": [
+      "Pick pick ten yes voice view foot use clear.",
+      "Large friend baby each billion include a.",
+      "Direction general especially feel state girl college relationship gas age official."
+    ],
+    "faqs": [
+      {
+        "question": "Painting public seem cup also?",
+        "answer": "Guy chance beat simply report wish raise note parent reality."
+      },
+      {
+        "question": "Visit price take happy control learn?",
+        "answer": "Law mention attorney adult machine throw recognize young computer note alone fear budget population know ahead world onto key low."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-21T14:32:50.757646",
+    "positions": [
+      {
+        "id": 557,
+        "title": "Automotive engineer",
+        "skills": [
+          7,
+          15,
+          19,
+          8
+        ],
+        "specialties": [
+          12
+        ],
+        "referralBonus": null
+      },
+      {
+        "id": 558,
+        "title": "Animal technologist",
+        "skills": [
+          20,
+          1,
+          2,
+          11,
+          8
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 559,
+        "title": "Marine scientist",
+        "skills": [
+          7,
+          19,
+          20,
+          8,
+          11
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 15,
+    "publishedAt": "2025-06-11T14:32:50.757646"
+  },
+  {
+    "id": 36,
+    "title": "Extended didactic standardization",
+    "organization": {
+      "id": 36,
+      "name": "Martinez LLC",
+      "logo": "https://logo.clearbit.com/zoom.us",
+      "industry": 17
+    },
+    "projectLeader": {
+      "id": 136,
+      "name": "Kimberly",
+      "lastName": "White"
+    },
+    "category": 5,
+    "subcategory": 4,
+    "startDate": "2025-07-12T14:32:50.759088",
+    "budget": {
+      "hourFrom": 38,
+      "hourTo": 51,
+      "total": null
+    },
+    "totalHours": 137,
+    "description": "Able democratic figure describe. Word situation share least set citizen interview space.",
+    "goals": [
+      "Hold nice interest plant out bed.",
+      "Eat seven great religious almost class skill site tough exactly.",
+      "Writer push individual establish early claim."
+    ],
+    "faqs": [
+      {
+        "question": "Recently fight nation avoid it?",
+        "answer": "Method artist structure draw pressure increase themselves decision many week public pressure character cultural ever commercial."
+      },
+      {
+        "question": "With onto situation professional theory impact share true media?",
+        "answer": "Many budget develop without imagine single rich even group manage."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-05-11T14:32:50.759088",
+    "positions": [
+      {
+        "id": 560,
+        "title": "Surveyor, building",
+        "skills": [
+          9,
+          2,
+          5
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 1,
+    "publishedAt": "2025-06-29T14:32:50.759088"
+  },
+  {
+    "id": 37,
+    "title": "Cross-group multimedia Local Area Network",
+    "organization": {
+      "id": 37,
+      "name": "Gutierrez, Robertson and Smith",
+      "logo": "https://logo.clearbit.com/google.com",
+      "industry": 18
+    },
+    "projectLeader": {
+      "id": 137,
+      "name": "Jeffrey",
+      "lastName": "Salinas"
+    },
+    "category": 2,
+    "subcategory": 14,
+    "startDate": "2025-07-22T14:32:50.759856",
+    "budget": {
+      "hourFrom": 36,
+      "hourTo": 50,
+      "total": null
+    },
+    "totalHours": 137,
+    "description": "Edge simply life responsibility this. Such story style center degree set. Know born red trip study garden method. Tough want bad movie style anything hand wind. Occur best would difficult join.",
+    "goals": [
+      "Test money brother PM best hope chair if.",
+      "If wife indicate according play nor experience.",
+      "Begin scientist bar table down senior government trip."
+    ],
+    "faqs": [
+      {
+        "question": "Really war year call safe foot?",
+        "answer": "Public media direction indeed ago possible operation realize ever from room draw others responsibility price."
+      },
+      {
+        "question": "Miss where even foot despite fast up least?",
+        "answer": "Without argue manager bank could write our begin important on plant again."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-05T14:32:50.759856",
+    "positions": [
+      {
+        "id": 561,
+        "title": "Recruitment consultant",
+        "skills": [
+          1,
+          2,
+          16,
+          13,
+          14
+        ],
+        "specialties": [
+          4
+        ],
+        "referralBonus": 500
+      },
+      {
+        "id": 562,
+        "title": "Geophysicist/field seismologist",
+        "skills": [
+          13,
+          17,
+          10,
+          15
+        ],
+        "specialties": [
+          17
+        ],
+        "referralBonus": 500
+      }
+    ],
+    "totalApplicationsAmount": 8,
+    "publishedAt": "2025-04-26T14:32:50.759856"
+  },
+  {
+    "id": 38,
+    "title": "Ergonomic analyzing workforce",
+    "organization": {
+      "id": 38,
+      "name": "Young Inc",
+      "logo": "https://logo.clearbit.com/spotify.com",
+      "industry": 5
+    },
+    "projectLeader": {
+      "id": 138,
+      "name": "Edward",
+      "lastName": "Stanley"
+    },
+    "category": 4,
+    "subcategory": 8,
+    "startDate": "2025-08-15T14:32:50.760934",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 8553
+    },
+    "totalHours": 188,
+    "description": "Yet unit speak four. Girl order look doctor candidate throw. Better capital quite stand provide partner.",
+    "goals": [
+      "If peace over range owner wrong everything pattern goal require town sure ten.",
+      "Certain draw miss strong short letter social tree when wait.",
+      "Difference politics science everything budget interesting trip conference cup do purpose very."
+    ],
+    "faqs": [
+      {
+        "question": "Surface phone throughout work appear us than everybody management?",
+        "answer": "Conference hand million politics this attorney week answer successful oil approach behavior white dark act why final."
+      },
+      {
+        "question": "Charge dinner growth end?",
+        "answer": "Every unit play deal really attention soon sign music draw."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-05T14:32:50.760934",
+    "positions": [
+      {
+        "id": 563,
+        "title": "Commissioning editor",
+        "skills": [
+          14,
+          4,
+          11,
+          20
+        ],
+        "specialties": [
+          11
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 564,
+        "title": "Chief Marketing Officer",
+        "skills": [
+          4,
+          12,
+          5,
+          2
+        ],
+        "specialties": [
+          19
+        ],
+        "referralBonus": 300
+      }
+    ],
+    "totalApplicationsAmount": 15,
+    "publishedAt": "2025-04-24T14:32:50.760934"
+  },
+  {
+    "id": 39,
+    "title": "Grass-roots content-based protocol",
+    "organization": {
+      "id": 39,
+      "name": "Torres, Brewer and Salazar",
+      "logo": "https://logo.clearbit.com/spotify.com",
+      "industry": 13
+    },
+    "projectLeader": {
+      "id": 139,
+      "name": "Mary",
+      "lastName": "Contreras"
+    },
+    "category": 4,
+    "subcategory": 15,
+    "startDate": "2025-06-26T14:32:50.761680",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 4882
+    },
+    "totalHours": 123,
+    "description": "Artist speech system soldier name. Child support amount tell possible end. Employee lawyer maintain activity relationship program century. Ever black fill me single during. Go maybe professor kid just.",
+    "goals": [
+      "Memory gas two interesting two foot seven show science low above.",
+      "Piece crime edge west television read security few trial market think.",
+      "Blood own control article support majority financial push father speak accept play nothing."
+    ],
+    "faqs": [
+      {
+        "question": "White tax power no natural anyone everyone fast?",
+        "answer": "Win and treatment old keep Democrat box describe away green happen our movement face book."
+      },
+      {
+        "question": "Chair piece down land major teach financial matter traditional?",
+        "answer": "Cover gun eye particular west same president gun choose interesting piece."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-13T14:32:50.761680",
+    "positions": [
+      {
+        "id": 565,
+        "title": "Energy manager",
+        "skills": [
+          8,
+          14,
+          18,
+          1,
+          9
+        ],
+        "specialties": [
+          1
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 566,
+        "title": "Immunologist",
+        "skills": [
+          19,
+          13,
+          3
+        ],
+        "specialties": [
+          5
+        ],
+        "referralBonus": null
+      }
+    ],
+    "totalApplicationsAmount": 5,
+    "publishedAt": "2025-06-17T14:32:50.761680"
+  },
+  {
+    "id": 40,
+    "title": "Upgradable next generation archive",
+    "organization": {
+      "id": 40,
+      "name": "Kelly PLC",
+      "logo": "https://logo.clearbit.com/gitlab.com",
+      "industry": 18
+    },
+    "projectLeader": {
+      "id": 140,
+      "name": "Amber",
+      "lastName": "Klein"
+    },
+    "category": 3,
+    "subcategory": 3,
+    "startDate": "2025-06-30T14:32:50.762667",
+    "budget": {
+      "hourFrom": null,
+      "hourTo": null,
+      "total": 8314
+    },
+    "totalHours": 130,
+    "description": "Blood pay according writer view thank police. Long structure operation every.",
+    "goals": [
+      "Realize hot grow science such next ground data production use.",
+      "Trial manager across radio middle bad mean provide describe boy task interest pass.",
+      "Success oil soon open skill her reflect religious place computer room."
+    ],
+    "faqs": [
+      {
+        "question": "Sometimes boy condition team?",
+        "answer": "Such apply leave might various hard beautiful order door."
+      },
+      {
+        "question": "Throw meeting during do institution actually case?",
+        "answer": "Bit no sign here suffer town on read should thus west able break Republican level."
+      }
+    ],
+    "status": "PUBLISHED",
+    "creationDate": "2025-04-14T14:32:50.762667",
+    "positions": [
+      {
+        "id": 567,
+        "title": "Sales professional, IT",
+        "skills": [
+          3,
+          2,
+          5,
+          6,
+          19
+        ],
+        "specialties": [
+          3
+        ],
+        "referralBonus": 300
+      },
+      {
+        "id": 568,
+        "title": "Broadcast presenter",
+        "skills": [
+          19,
+          16,
+          17,
+          10
+        ],
+        "specialties": [
+          2
+        ],
+        "referralBonus": 200
+      },
+      {
+        "id": 569,
+        "title": "Psychologist, forensic",
+        "skills": [
+          11,
+          4,
+          1,
+          16
+        ],
+        "specialties": [
+          14
+        ],
+        "referralBonus": 200
+      }
+    ],
+    "totalApplicationsAmount": 15,
+    "publishedAt": "2025-04-28T14:32:50.762667"
+  }
+]
