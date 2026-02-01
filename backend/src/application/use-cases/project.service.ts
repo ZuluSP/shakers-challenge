@@ -4,6 +4,7 @@ import type {
   IProjectRepository,
   ProjectFilters,
 } from '../../domain/repositories/project.repository.interface';
+import { StaticData } from 'src/domain/models/static-data.model';
 
 @Injectable()
 export class ProjectService {
@@ -22,6 +23,10 @@ export class ProjectService {
         throw new Error(`Project with ID ${id} not found`);
     }
     return project;
+  }
+
+  async getFilterOptions(): Promise<StaticData> {
+    return this.projectRepository.getStaticData();
   }
   
 }

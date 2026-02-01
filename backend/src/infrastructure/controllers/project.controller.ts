@@ -9,6 +9,7 @@ import {
 } from '@nestjs/common';
 import { ProjectService } from '../../application/use-cases/project.service';
 import { ProjectFilters } from '../../domain/repositories/project.repository.interface';
+import { StaticData } from 'src/domain/models/static-data.model';
 
 @Controller('projects')
 export class ProjectController {
@@ -36,6 +37,11 @@ export class ProjectController {
     };
 
     return this.projectService.getProjects(filters);
+  }
+
+  @Get('metadata/filters')
+  async getFilterOptions(): Promise<StaticData> {
+    return this.projectService.getFilterOptions();
   }
 
   @Get(':id')
