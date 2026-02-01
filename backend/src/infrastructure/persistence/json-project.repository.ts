@@ -6,6 +6,7 @@ import type {
   IProjectRepository,
   ProjectFilters,
 } from '../../domain/repositories/project.repository.interface';
+import { StaticData } from 'src/domain/models/static-data.model';
 
 @Injectable()
 export class JsonProjectRepository implements IProjectRepository, OnModuleInit {
@@ -114,5 +115,9 @@ export class JsonProjectRepository implements IProjectRepository, OnModuleInit {
         specialties: pos.specialties.map((id: number) => getById(this.staticData.specialties, id)),
       })),
     };
+  }
+
+  async getStaticData(): Promise<StaticData> {
+    return this.staticData;
   }
 }

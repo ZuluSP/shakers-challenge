@@ -1,4 +1,5 @@
 import { Project } from '../models/project.model';
+import { StaticData } from '../models/static-data.model';
 
 export interface ProjectFilters {
   searchTerm?: string;
@@ -14,4 +15,6 @@ export interface IProjectRepository {
   findAll(filters?: ProjectFilters): Promise<Project[]>;
 
   findById(id: number): Promise<Project | null>;
+
+  getStaticData(): Promise<StaticData>;
 }

@@ -10,3 +10,10 @@ export interface Category extends BaseEntity {}
 export interface Subcategory extends BaseEntity {
   categoryId?: number;
 }
+export interface StaticData {
+  skills: Skill[];
+  specialties: Specialty[];
+  industries: Industry[];
+  categories: Category[];
+  subcategories: Subcategory[];
+}
