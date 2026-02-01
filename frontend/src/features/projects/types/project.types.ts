@@ -17,7 +17,7 @@ export interface Position {
   title: string;
   skills: Skill[];
   specialties: number[];
-  referralBonus: number;
+  referralBonus: number | null;
 }
 export interface ProjectLeader {
   id: number;
